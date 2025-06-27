@@ -6,11 +6,11 @@ Main links
 
 ---
 
-🔗 [Mega download folder](https://www.miosito.com)
+🔗 [Mega download folder](https://mega.nz/folder/OQkk1CYT#nS_k3KWcuhZLphmHwsvjZA)
 
-📸 [Instagram](https://www.instagram.com/iltuoaccount)
+📸 [Instagram](https://www.instagram.com/skorpion.os/)
 
-🗨️ [Telegram group](https://www.linkedin.com/in/iltuoaccount)
+🗨️ [Telegram group](https://t.me/+BWPo1Tholgc2NmY0)
 
 ---
 
