@@ -10,7 +10,7 @@ Main links
 
 📸 [Instagram](https://www.instagram.com/skorpion.os/)
 
-🗨️ [Telegram group](https://t.me/+BWPo1Tholgc2NmY0)
+🗨️ [Telegram fan group](https://t.me/+BWPo1Tholgc2NmY0)
 
 ---
 
