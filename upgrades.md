@@ -16,8 +16,6 @@
 
 ### Bash or Fish (themed)
 - **Theme**: Theme changes in the terminal for a more cool look
-- **Prompt**: 
-- **Extra Tools**: 
 
 ---
 
@@ -34,7 +32,8 @@
 
 - **AI Chat Clients**: `ollama`.
 - **CLI Tools**: `t`, `shell_gpt`, `warp`.
-- **Firefox ai tools**: 
+- **Firefox ai tools**: `our own tool`.
+- **Desktop tool**: `our own tool`.
 
 ---
 
