@@ -1,39 +1,33 @@
 # Skorpion_Os future modifies
 
-## 2 versions
+## 2 Versions
 
 ### 1. i3
-- **implementing ai in the distro**  
+- **Implementing ai in the distro**  
 
 ### 2. XFCE
-- **inserting the menu for more coherence in the os's**
-- **using same shortcuts as the i3 version**
-- **implementing ai in the distro**  
+- **Inserting the menu for more coherence in the os's**
+- **Using same shortcuts as the i3 version**
+- **Implementing ai in the distro**  
 
 ---
 
 ## Shell
 
-### Bash or Fish (themed)
+### Zsh / Bash (themed)
+- **Switch mode**: implementing some bash scripts / aliasses to make the user easily switch between zsh and bash (making it more cool and similiar to distros used by new users with low competencies _kali_ for example, that are not made for them)
 - **Theme**: Theme changes in the terminal for a more cool look
-
----
-
-## Upgrade the Kernel
-
-### Custom Kernel / Drivers preinstalled (non-Debian standard)
-- Built-in Wi-Fi driver support:
-  - Includes `non-free` firmware and drivers for Realtek, Broadcom, Intel chipsets.
-  - Out-of-the-box compatibility with most Wi-Fi devices.
 
 ---
 
 ## AI Tools
 
 - **AI Chat Clients**: `ollama`.
-- **CLI Tools**: `t`, `shell_gpt`, `warp`.
+- **CLI Tools**: `t`, `shell_gpt`.
 - **Firefox ai tools**: `our own tool`.
-- **Desktop tool**: `our own tool`.
+- **Desktop conversation bar**: `our own tool`.
+
+> **All the AI part of the projects here**: https://github.com/Endrx2008/skai_ap.
 
 ---
 
