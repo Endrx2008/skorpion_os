@@ -12,6 +12,8 @@ Main links
 
 🗨️ [Telegram fan group](https://t.me/+BWPo1Tholgc2NmY0)
 
+📝 [Pnlug Wiki](https://wiki.pnlug.it/index.php?title=Sperimentare_con_Skorpion_OS#Link_al_progetto)
+
 ---
 
 Thank you for visiting
