@@ -12,7 +12,7 @@ Main links
 
 📸 [Instagram](https://www.instagram.com/skorpion.os/)
 
-🗨️ [Telegram fan group](https://t.me/+BWPo1Tholgc2NmY0)
+🗨️ [Telegram fan group](https://t.me/skorpion_os1)
 
 📝 [Pnlug Wiki](https://wiki.pnlug.it/index.php?title=Sperimentare_con_Skorpion_OS#Link_al_progetto)
 
