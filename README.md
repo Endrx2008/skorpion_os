@@ -6,6 +6,8 @@ Main links
 
 ---
 
+🌐 [Websyte](https://skossyte.pages.dev)
+
 🔗 [Mega download folder](https://mega.nz/folder/OQkk1CYT#nS_k3KWcuhZLphmHwsvjZA)
 
 📸 [Instagram](https://www.instagram.com/skorpion.os/)
