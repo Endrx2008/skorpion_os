@@ -8,7 +8,7 @@ Main links
 
 🌐 [Websyte](https://skossyte.pages.dev)
 
-🔗 [Mega download folder](https://mega.nz/folder/OQkk1CYT#nS_k3KWcuhZLphmHwsvjZA)
+🔗 [Download folder](https://sourceforge.net/projects/skos/files/sk_os.iso/download)
 
 📸 [Instagram](https://www.instagram.com/skorpion.os/)
 
