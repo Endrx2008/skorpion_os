@@ -12,8 +12,6 @@ Main links
 
 📸 [Instagram](https://www.instagram.com/skorpion.os/)
 
-🗨️ [Telegram channel](https://t.me/skorpion_os1)
-
 📝 [Pnlug Wiki](https://wiki.pnlug.it/index.php?title=Sperimentare_con_Skorpion_OS#Link_al_progetto)
 
 ---
