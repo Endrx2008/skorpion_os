@@ -6,7 +6,7 @@ Main links
 
 ---
 
-🌐 [Websyte](https://skossyte.pages.dev)
+🌐 [Website](https://skossite.pages.dev)
 
 🔗 [Download folder](https://sourceforge.net/projects/skos/files/sk_os.iso/download)
 
