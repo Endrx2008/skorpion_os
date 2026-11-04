@@ -113,10 +113,13 @@ You can also support the project on [Ko-fi](https://ko-fi.com/I3X828AUUL) 💚
 | Repo | Description |
 |---|---|
 | [skai_manager](https://github.com/Endrx2008/skai_manager) | SKAI Manager — local AI control center and first-boot wizard |
-| [skai](https://github.com/Endrx2008/skai) | skai-cli — natural-language terminal file manager |
-| [launcher](https://github.com/Endrx2008/launcher) | SKAI Launcher for Lite (i3) and Mantis (Hyprland) |
-| [libreoffice](https://github.com/Endrx2008/libreoffice) | SKAI for LibreOffice — Writer, Calc and Math extensions |
+| [sk_notes](https://github.com/Endrx2008/sk_notes) | skai_Notes — notes and .md memory |
+| [sk_files](https://github.com/Endrx2008/sk_files) | skai-cli — natural-language terminal file manager |
+| [sk_office](https://github.com/Endrx2008/sk_office) | SKAI for LibreOffice — Writer, Calc and Math extensions |
 | [sk_mail](https://github.com/Endrx2008/sk_mail) | SKAI for Thunderbird — mail and calendar add-on |
+| [skaifox](https://github.com/Endrx2008/skaifox) | SKAI for Firefox — search assisted add-on |
+| [launcher](https://github.com/Endrx2008/launcher) | SKAI Launcher for Lite (i3) and Mantis (Hyprland) |
+
 
 Also mirrored on [GitLab](https://gitlab.com/Endrx2008).
 
