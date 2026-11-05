@@ -81,8 +81,6 @@ Areas where help is most welcome:
 Open an issue, send a pull request, or come to the [PN LUG](https://pnlug.it) meetings in Pordenone, every Tuesday evening.
 You can also support the project on [Ko-fi](https://ko-fi.com/I3X828AUUL) 💚
 
----
-
 ## 🌐 Media
 
 
@@ -94,7 +92,6 @@ You can also support the project on [Ko-fi](https://ko-fi.com/I3X828AUUL) 💚
 
 📝 [Pnlug Wiki](https://wiki.pnlug.it/index.php?title=Sperimentare_con_Skorpion_OS#Link_al_progetto)
 
----
 
 ## The SKAI ecosystem
 
