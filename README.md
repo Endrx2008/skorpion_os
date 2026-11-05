@@ -85,7 +85,6 @@ You can also support the project on [Ko-fi](https://ko-fi.com/I3X828AUUL) 💚
 
 ## 🌐 Media
 
----
 
 🌐 [Website](https://skossite.pages.dev)
 
