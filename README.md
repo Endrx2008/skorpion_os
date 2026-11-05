@@ -41,7 +41,7 @@ ISOs and checksums are on [SourceForge](https://sourceforge.net/projects/skos/fi
 
 ## Minimum requirements
 
-| | |
+| Resource | Requisite |
 |---|---|
 | **CPU** | 4+ cores, x86_64, Intel/AMD with AVX2 |
 | **RAM** | 8 GB (16 GB for the recommended model, qwen2.5:14b) |
