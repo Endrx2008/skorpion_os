@@ -51,17 +51,6 @@ ISOs and checksums are on [SourceForge](https://sourceforge.net/projects/skos/fi
 
 Smaller models can be chosen at setup for less powerful machines.
 
-## The SKAI ecosystem
-
-| Module | What it does |
-|---|---|
-| **SKAI Manager** | Control center for the local AI (`Alt` + `F9`): download or remove Ollama models, toggle the service, use a remote PC for computing. Includes the first-boot wizard |
-| **skai-cli** | Terminal file manager driven by natural language, sandboxed to its folder, with memory across sessions |
-| **SKAI Launcher** | App launcher for Lite and Mantis with local AI, multi-calculator and an interactive guide |
-| **Skaifox** | SKAI extension for Firefox ESR |
-| **sk_libre** | AI extensions for LibreOffice Writer, Calc and Math |
-| **sk_mail** | AI add-on for Thunderbird, mail and calendar |
-
 Web search (via DuckDuckGo) is used only to look things up — never to process your data.
 
 ## Roadmap
@@ -108,7 +97,7 @@ You can also support the project on [Ko-fi](https://ko-fi.com/I3X828AUUL) 💚
 
 ---
 
-## 🔗 Connected repos
+## The SKAI ecosystem
 
 | Repo | Description |
 |---|---|
