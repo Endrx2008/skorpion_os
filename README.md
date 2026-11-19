@@ -84,7 +84,7 @@ General material of the project, not the code of the apps (each app has its own 
 |---|---|
 | `system-images/skorpion_logo/` | the Skorpion OS logo: `skorpion_logo.svg`, `skorpion_logo_white.svg`, with the name (`skorpion_logo_name.svg`) and the menu icon (`menu.png`) |
 | `system-images/wallpaper4.png`, `wallpaper4-1.png` | wallpapers of the current release |
-| `ventoy_theme/ventoy.7z` | the boot-menu theme for a [Ventoy](https://www.ventoy.net) USB stick: extract it at the root of the stick's first partition (it adds `ventoy/ventoy.json` and `ventoy/ventoy-pop/`, 1920×1080) |
+| `ventoy_theme/sk_vnt_theme.7z` | **sk_vnt_theme**, the boot-menu theme for a [Ventoy](https://www.ventoy.net) USB stick: extract it at the root of the stick's first partition (it adds `ventoy/ventoy.json` and `ventoy/sk_vnt_theme/`, 1920×1080). Based on ventoy-pop by Diego Duarte, see `CREDITS` in the theme |
 
 **License:** the images and the Ventoy theme of this repository are released under GPL-3.0-or-later (see
 [LICENSE](LICENSE)). Skorpion OS itself is a collection of many programs: each keeps its own license, and

@@ -84,7 +84,7 @@ Materiale generale del progetto, non il codice delle app (ogni app ha il suo rep
 |---|---|
 | `system-images/skorpion_logo/` | il logo di Skorpion OS: `skorpion_logo.svg`, `skorpion_logo_white.svg`, con il nome (`skorpion_logo_name.svg`) e l'icona del menu (`menu.png`) |
 | `system-images/wallpaper4.png`, `wallpaper4-1.png` | sfondi della versione attuale |
-| `ventoy_theme/ventoy.7z` | il tema del menu di avvio per una chiavetta [Ventoy](https://www.ventoy.net): estrailo nella radice della prima partizione della chiavetta (aggiunge `ventoy/ventoy.json` e `ventoy/ventoy-pop/`, 1920×1080) |
+| `ventoy_theme/sk_vnt_theme.7z` | **sk_vnt_theme**, il tema del menu di avvio per una chiavetta [Ventoy](https://www.ventoy.net): estrailo nella radice della prima partizione della chiavetta (aggiunge `ventoy/ventoy.json` e `ventoy/sk_vnt_theme/`, 1920×1080). Basato su ventoy-pop di Diego Duarte, vedi `CREDITS` nel tema |
 
 **Licenza:** le immagini e il tema Ventoy di questo repository sono rilasciati sotto GPL-3.0-or-later (vedi
 [LICENSE](LICENSE)). Skorpion OS è un insieme di molti programmi: ognuno mantiene la propria licenza, e le

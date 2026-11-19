@@ -1,8 +1,9 @@
 Copyright (C) 2026 Enrico Miot (EndrX)
 
 This license covers the content of this repository: the images (system-images/)
-and the Ventoy theme (ventoy_theme/). Skorpion OS as a whole is a collection of
-programs under many licenses; each of them keeps its own.
+and the Ventoy theme sk_vnt_theme (ventoy_theme/). sk_vnt_theme started from
+ventoy-pop by Diego Duarte (MIT); its CREDITS file keeps that notice. Skorpion OS
+as a whole is a collection of programs under many licenses; each keeps its own.
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
